@@ -26,10 +26,6 @@
 	path = resources/[esx_system]/instance
 	url = https://github.com/esx-framework/instance.git
 	branch = master
-[submodule "resources/[esx_system]/skinchanger"]
-	path = resources/[esx_system]/skinchanger
-	url = https://github.com/FiveRPExtended/skinchanger.git
-	branch = master
 [submodule "resources/[esx]/esx_ambulancejob"]
 	path = resources/[esx]/esx_ambulancejob
 	url = https://github.com/esx-framework/esx_ambulancejob.git
