@@ -10,3 +10,19 @@
 	path = resources/[esx_system]/esx_menu_dialog
 	url = https://github.com/esx-framework/esx_menu_dialog.git
 	branch = master
+[submodule "resources/[esx_system]/mysql-async"]
+	path = resources/[esx_system]/mysql-async
+	url = https://github.com/dutchplayers/MySQL-for-ESX-Inventory-HUD.git
+	branch = master
+[submodule "resources/[esx_system]/async"]
+	path = resources/[esx_system]/async
+	url = https://github.com/esx-framework/async.git
+	branch = master
+[submodule "resources/[esx_system]/cron"]
+	path = resources/[esx_system]/cron
+	url = https://github.com/esx-framework/cron.git
+	branch = master
+[submodule "resources/[esx_system]/instance"]
+	path = resources/[esx_system]/instance
+	url = https://github.com/esx-framework/instance.git
+	branch = master
