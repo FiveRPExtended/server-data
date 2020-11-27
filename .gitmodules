@@ -1,0 +1,12 @@
+[submodule "resources/[esx_system]/es_extended"]
+	path = resources/[esx_system]/es_extended
+	url = https://github.com/esx-framework/es_extended.git
+	branch = legacy
+[submodule "resources/[esx_system]/esx_menu_default"]
+	path = resources/[esx_system]/esx_menu_default
+	url = https://github.com/esx-framework/esx_menu_default.git
+	branch = master
+[submodule "resources/[esx_system]/esx_menu_dialog"]
+	path = resources/[esx_system]/esx_menu_dialog
+	url = https://github.com/esx-framework/esx_menu_dialog.git
+	branch = master
